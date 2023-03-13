@@ -1,5 +1,6 @@
 # R-PNODE
-Robust Prototypical Few-Shot Organ Segmentation with Regularized Neural-ODEs
+
+This is the official code for "Robust Prototypical Few-Shot Organ Segmentation with Regularized Neural-ODEs", IEEE Transactions of Medical Imaging, 2022.
 
 
 <p align="center">
